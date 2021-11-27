@@ -1,0 +1,427 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.constitutiondao.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 5408,
+            "children": [
+                {
+                    "url": "https://www.constitutiondao.com/assets/scripts/tilt.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.constitutiondao.com/assets/scripts/progress.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=G-NFTGPTJK0T",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.constitutiondao.com/styles.css",
+                    "path": "css/styles.css",
+                    "saved": true,
+                    "size": 6599,
+                    "children": [
+                        {
+                            "url": "https://fonts.googleapis.com/css2?family=Ballet&display=swap",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.constitutiondao.com/assets/fonts/GT-America-Standard-Regular.ttf",
+                            "path": "fonts/GT-America-Standard-Regular.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.constitutiondao.com/assets/fonts/GT-America-Standard-Bold.ttf",
+                            "path": "fonts/GT-America-Standard-Bold.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.constitutiondao.com/assets/fonts/GT-America-Standard-Bold-Italic.ttf",
+                            "path": "fonts/GT-America-Standard-Bold-Italic.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.constitutiondao.com/assets/images/preview-banner.jpg?utm_source=twitter",
+                    "path": "img/preview-banner.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.youtube.com/embed/iXR8DM3fM4w",
+                    "path": "iXR8DM3fM4w.html",
+                    "saved": true,
+                    "size": 59408,
+                    "children": [
+                        {
+                            "url": "https://www.youtube.com/s/player/10df06bb/www-embed-player.vflset/www-embed-player.js",
+                            "path": "js/www-embed-player.js",
+                            "saved": true,
+                            "size": 219753,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/player/10df06bb/player_ias.vflset/zh_CN/base.js",
+                            "path": "js/base.js",
+                            "saved": true,
+                            "size": 1875737,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/player/10df06bb/fetch-polyfill.vflset/fetch-polyfill.js",
+                            "path": "js/fetch-polyfill.js",
+                            "saved": true,
+                            "size": 8543,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.youtube.com/s/player/10df06bb/www-player-webp.css",
+                            "path": "css/www-player-webp.css",
+                            "saved": true,
+                            "size": 343600,
+                            "children": [
+                                {
+                                    "url": "https://www.gstatic.com/youtube/img/originals/ckee/crane-kick.png",
+                                    "path": "img/crane-kick.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.gstatic.com/youtube/img/originals/ckee/crane-kick@2x.png",
+                                    "path": "img/crane-kick@2x.png",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.loom.com/embed/a3ef6b98f557401086c946ca7dd547cd",
+                    "path": "a3ef6b98f557401086c946ca7dd547cd.html",
+                    "saved": true,
+                    "size": 12221,
+                    "children": [
+                        {
+                            "url": "https://cmp.osano.com/AzytdUSlZ32371fP0/ba69bebe-a167-497d-9119-634931398b23/osano.js",
+                            "path": "js/osano.js",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/js/commons-6c38b5e61e6979d32230.js",
+                            "path": "js/commons-6c38b5e61e6979d32230.js",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/js/embed-video-fa52945c8810ea97e7b0.js",
+                            "path": "js/embed-video-fa52945c8810ea97e7b0.js",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/js/runtime-6685cc3c7c2f08fc9f41.js",
+                            "path": "js/runtime-6685cc3c7c2f08fc9f41.js",
+                            "saved": true,
+                            "size": 6581,
+                            "children": []
+                        },
+                        {
+                            "url": "https://src.litix.io/shakaplayer/4/shakaplayer-mux.js",
+                            "path": "js/shakaplayer-mux.js",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/css/embed-video-6900c3a9942074f71b75.css",
+                            "path": "css/embed-video-6900c3a9942074f71b75.css",
+                            "saved": true,
+                            "size": 113049,
+                            "children": [
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/logo/loom-logo-b75419338555d6d9c8cf7601d038da2c.svg",
+                                    "path": "img/loom-logo-b75419338555d6d9c8cf7601d038da2c.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/notifications/bell-d4ded794b45377b27b9e9a17f337ba3e.svg",
+                                    "path": "img/bell-d4ded794b45377b27b9e9a17f337ba3e.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/hamburger-8141b8df398e965ac1a6da89f9f43eef.svg",
+                                    "path": "img/hamburger-8141b8df398e965ac1a6da89f9f43eef.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/chevron-grey-6e8a2d7c988a48ab315726f50f47597a.svg",
+                                    "path": "img/chevron-grey-6e8a2d7c988a48ab315726f50f47597a.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/logo/loom-logo-white-000655311d9f899485201451fec2e23a.svg",
+                                    "path": "img/loom-logo-white-000655311d9f899485201451fec2e23a.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/hamburger-white-badb071821d161372acda731247ab730.svg",
+                                    "path": "img/hamburger-white-badb071821d161372acda731247ab730.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/onboarding/header-spiral-93f3d82ed4a0066f9e95bed1794db27d.svg",
+                                    "path": "img/header-spiral-93f3d82ed4a0066f9e95bed1794db27d.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/close-white-thick-a5f56555f067afd9c30f4b0e0aed8f7f.svg",
+                                    "path": "img/close-white-thick-a5f56555f067afd9c30f4b0e0aed8f7f.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/video-player/replay-7f810fdb6dac6965e5422eb5d4d9db70.svg",
+                                    "path": "img/replay-7f810fdb6dac6965e5422eb5d4d9db70.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/chrome-9a78e9ba47b95adc57710f90477c3c14.svg",
+                                    "path": "img/chrome-9a78e9ba47b95adc57710f90477c3c14.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/chrome-white-aed7726d12305407865f0bad490b0acb.svg",
+                                    "path": "img/chrome-white-aed7726d12305407865f0bad490b0acb.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/facebook-16px-2daec357d1c475c4770b41b648309bab.svg",
+                                    "path": "img/facebook-16px-2daec357d1c475c4770b41b648309bab.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/gmail-16px-2527d687bb122cc180030e6b74855859.svg",
+                                    "path": "img/gmail-16px-2527d687bb122cc180030e6b74855859.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/twitter-16px-1cf612e6719ca089bdad0db897bf1c1e.svg",
+                                    "path": "img/twitter-16px-1cf612e6719ca089bdad0db897bf1c1e.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/img/icons/upload-progress-check-15fa2c60f5c4cf30fc6a1112a6321460.svg",
+                                    "path": "img/upload-progress-check-15fa2c60f5c4cf30fc6a1112a6321460.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Book-cd7d2bcec649b1243839a15d5eb8f0a3.woff2",
+                                    "path": "fonts/CircularXXWeb-Book-cd7d2bcec649b1243839a15d5eb8f0a3.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-BookItalic-a2c58bc66decec3cd29766080a2f2289.woff2",
+                                    "path": "fonts/CircularXXWeb-BookItalic-a2c58bc66decec3cd29766080a2f2289.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Medium-d74eac43c78bd5852478998ce63dceb3.woff2",
+                                    "path": "fonts/CircularXXWeb-Medium-d74eac43c78bd5852478998ce63dceb3.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-MediumItalic-f952e116aea39a639460ec288b570bd2.woff2",
+                                    "path": "fonts/CircularXXWeb-MediumItalic-f952e116aea39a639460ec288b570bd2.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Bold-83b8ceaf77f49c7cffa44107561909e4.woff2",
+                                    "path": "fonts/CircularXXWeb-Bold-83b8ceaf77f49c7cffa44107561909e4.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-BoldItalic-522d6a7d693d43747b29fa51800e1225.woff2",
+                                    "path": "fonts/CircularXXWeb-BoldItalic-522d6a7d693d43747b29fa51800e1225.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Black-bf067ecb8aa777ceb6df7d72226febca.woff2",
+                                    "path": "fonts/CircularXXWeb-Black-bf067ecb8aa777ceb6df7d72226febca.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-BlackItalic-6b6a94f4d964ea79ef87131bb66b41e4.woff2",
+                                    "path": "fonts/CircularXXWeb-BlackItalic-6b6a94f4d964ea79ef87131bb66b41e4.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/favicons-loom/favicon.ico",
+                            "path": "favicon.ico",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/favicons-loom/favicon-32x32.png",
+                            "path": "img/favicon-32x32.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/favicons-loom/android-chrome-192x192.png",
+                            "path": "img/android-chrome-192x192.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/favicons-loom/apple-touch-icon-180x180.png",
+                            "path": "img/apple-touch-icon-180x180.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/favicons-loom/safari-pinned-tab.svg",
+                            "path": "img/safari-pinned-tab.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.loom.com/assets/img/og/loom-banner.png",
+                            "path": "img/loom-banner.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "www-constitutiondao-com-wo7r3pb",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://cdn.loom.com/assets/css/embed-video-6900c3a9942074f71b75.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://www.constitutiondao.com/",
+            "statusCode": 200,
+            "headers": {
+                "cache-control": "public, max-age=0, must-revalidate",
+                "content-type": "text/html; charset=UTF-8",
+                "date": "Sat, 27 Nov 2021 03:05:16 GMT",
+                "etag": "\"c17c50e727528bffe883d122e0c27dfc-ssl-df\"",
+                "strict-transport-security": "max-age=31536000",
+                "x-nf-request-id": "01FNFWX048N432SYJ061RJ55T6",
+                "server": "Netlify",
+                "age": "7592",
+                "vary": "Accept-Encoding",
+                "content-length": "2065"
+            }
+        },
+        "time": {
+            "start": "2021-11-27T05:11:48.265Z",
+            "end": "2021-11-27T05:12:14.322Z"
+        },
+        "remark": [],
+        "ip": "104.248.158.121",
+        "url": "https://www.constitutiondao.com/",
+        "main": "index.html",
+        "domain": "www.constitutiondao.com",
+        "origin": "https://www.constitutiondao.com",
+        "totalSize": "2.65 MB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://www.constitutiondao.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
